@@ -1,7 +1,6 @@
 # LaptopPricesComparer
 
-# tree_news
-A tree-news clone in flask
+
 
 Prerequisites
 
